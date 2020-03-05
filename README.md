@@ -29,3 +29,5 @@ Het design uitgewerkt in drie formaten. Mobiel - Ipad - Desktop.
 ## Resources gebruikt
 Icons SVG - https://linearicons.com/free
 Charts -  https://apexcharts.com/
+CSS Grid - https://www.w3schools.com/css/css_grid.asp
+Flexbox - https://flexbox.help/
