@@ -12,3 +12,10 @@ Het is 2030. 103 mensen betaalden $200.000 voor een kaartje om naar Mars te reiz
 Kleine brainstorm sessie over de informatie die mij relevant lijkt en in het dashboard moet komen!
 
 ![](images/dashboard-info.jpeg)
+
+## Final schetsen ontwerp
+De schetsen hoe het eind-ontwerp er uit moet komen te zien in grote lijnen.
+
+![](images/phone.jpeg)
+![](images/ipad.jpeg)
+![](images/desktop.jpeg)
