@@ -19,3 +19,8 @@ De schetsen hoe het eind-ontwerp er uit moet komen te zien in grote lijnen.
 ![](images/phone.jpeg)
 ![](images/ipad.jpeg)
 ![](images/desktop.jpeg)
+
+
+## Resources gebruikt
+Icons SVG - https://linearicons.com/free
+Charts - 
