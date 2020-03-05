@@ -20,7 +20,12 @@ De schetsen hoe het eind-ontwerp er uit moet komen te zien in grote lijnen.
 ![](images/ipad.jpeg)
 ![](images/desktop.jpeg)
 
+## Uitgewerkt design 3 formaten
+Het design uitgewerkt in drie formaten. Mobiel - Ipad - Desktop.
+
+![](images/dashboard.png)
+
 
 ## Resources gebruikt
 Icons SVG - https://linearicons.com/free
-Charts - 
+Charts -  https://apexcharts.com/
