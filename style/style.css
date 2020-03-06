@@ -1,3 +1,21 @@
-* {
-	background: yellow;
+body {
+	background: #343E59;
+}
+
+.red-square {
+  background-color: #343E59;
+  position: absolute;
+  text-align: center;
+  width: 450px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.red-square h2 {
+	padding: 20px;
+	font-family: Arial;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: lighter;
 }
