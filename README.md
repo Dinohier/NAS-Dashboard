@@ -29,6 +29,8 @@ Het design uitgewerkt in drie formaten. Mobiel - Ipad - Desktop.
 ## Website uitwerking
 De website is uitgewerkt en beschikt over alle kwaaltjes die het moet hebben. Het dashboard is interactief en volledig responsive op elk scherm is dezed optimaal te bekijken. Ik heb gebruik gemaakt van bootstrap omdat ik hiermee de layout makkelijker in elkaar kon leggen. In combinatie met flexbox is dit voor mij de ultieme manier geweest om deze website zo te bouwen. Hieronder zijn een aantal fotos te zien van de website!
 
+![](images/website-online.jpeg)
+
 ## Resources gebruikt
 Icons SVG - https://linearicons.com/free
 Charts -  https://apexcharts.com/
